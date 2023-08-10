@@ -1,0 +1,8 @@
+
+xv6 kernel is booting
+
+init: starting sh
+$ usertests
+usertrap(): unexpected scause 0x0000000000000002 pid=3
+            sepc=0x000000000000538a stval=0x0000000000000000
+$ qemu-system-riscv64: terminating on signal 15 from pid 7229 (make)
