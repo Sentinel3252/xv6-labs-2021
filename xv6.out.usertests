@@ -1,0 +1,11 @@
+
+xv6 kernel is booting
+
+hart 2 starting
+hart 1 starting
+init: starting sh
+$ usertrap(): unexpected scauuse 0x8000000000000009se prtestid=2
+  s
+          sepc=0x0000000000000bea stval=0x0000000000000000
+init: starting sh
+$ qemu-system-riscv64: terminating on signal 15 from pid 9608 (make)
